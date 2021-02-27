@@ -1,6 +1,6 @@
 from telebot import *
 from random import *
-bot = TeleBot('1601133425:AAFE3TAqtbA6wkc7cf5wYJP8hNUMt2XIJ6A')
+bot = TeleBot('')
 alll_pp = [
     [['.','.'], ['.','.'],['.','.']],
     [['.','.'],['.','.'],['.','.']],
